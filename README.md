@@ -1,8 +1,8 @@
 # policlinica.cf
 
-Doctor
-Email: bogdantoma@yahoo.com
-Password:5678
+Doctor </br>
+Email: bogdantoma@yahoo.com </br>
+Password:5678 </br>
 
 Pacient
 Username: alinacoanda
